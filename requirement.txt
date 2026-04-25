@@ -10,6 +10,7 @@ langchain-text-splitters
 langchain-huggingface==1.2.2
 langchain-ollama==1.1.0
 langchain-xai==1.2.2
+fastapi[standard]
 
 -e .
 
