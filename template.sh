@@ -9,6 +9,7 @@ touch setup.py
 touch README.md
 touch research/trials.ipynb
 touch requirement.txt
-
+touch app.py
+touch .gitignore
 
 echo "Directory and files created successfully!"
