@@ -6,9 +6,12 @@ python-dotenv
 langchain-groq==1.1.2
 langchain-pinecone==0.2.13
 langchain-community==0.4.1
+langchain-text-splitters
+langchain-huggingface==1.2.2
+langchain-ollama==1.1.0
+langchain-xai==1.2.2
 
-
--e.
+-e .
 
 
 
